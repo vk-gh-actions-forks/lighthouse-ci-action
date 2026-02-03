@@ -12,9 +12,9 @@
     "test": "prettier -c src/** package.json README.md && tsc -p ."
   },
   "dependencies": {
-    "@actions/artifact": "^2.3.2",
+    "@actions/artifact": "^5.0.0",
     "@actions/core": "^1.11.1",
-    "@actions/github": "^6.0.1",
+    "@actions/github": "^8.0.1",
     "@lhci/cli": "^0.15.0",
     "@lhci/utils": "^0.15.0",
     "is-windows": "^1.0.2",
